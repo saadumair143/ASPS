@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "ASPS React Native",
+    "slug": "asps-ui-react-native",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.4.0",
+    "orientation": "portrait",
+    "icon": "./assets/asps_icon.png",
+    "splash": {
+      "image": "./assets/asfs-intro.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "ASPS React Native, based on Now UI Design System."
+  }
+}
